@@ -1,0 +1,23 @@
+alert('Hello,Welcome');
+alert("If you came to this website you're probably stupid");
+alert("But dont worry i will teach you the ways");
+alert("Ways of the smart people");
+alert("Will you come with me?");
+alert("I say that as if you have a choice");
+alert("And dont even think about closing the tab");
+alert("Okay lets start");
+alert("Click this link");
+
+console.log("you fell for it? your really are stupid huh");
+console.log("We're no strangers to love ");
+console.log("You know the rules and so do I ");
+console.log("A full commitment's what I'm thinking of ");
+console.log("You wouldn't get this from any other guy ");
+console.log("I just wanna tell you how I'm feeling ");
+console.log("Gotta make you understand ");
+console.log("Never gonna give you up ");
+console.log("Never gonna let you down ");
+console.log("Never gonna run around and desert you ");
+console.log("Never gonna make you cry ");
+console.log("Never gonna say goodbye ");
+console.log("Never gonna tell a lie and hurt you ");
